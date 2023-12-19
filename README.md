@@ -9,6 +9,9 @@ Learning Japanese and German. Likes learning languages too. <br>
 Current IB student <br>
 IB学生 <br>
 今、IB学生です <br>
+
+E-MAIL: boypu9673@gmail.com
+WECHAT: boypu123
 <!---
 boypu123/boypu123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
