@@ -1,6 +1,6 @@
-A Chinese overseas sixth-form student studying in Singapore. Interested in Computing. <br>
-在新加坡留学的中国高中留学生。对计算机感兴趣 <br>
-中国出身、シンガポールで勉強の高校留学生。情報学が好きです <br>
+A Chinese overseas sixth-form student studying in Singapore. Interested in Computing and Mathematics. <br>
+在新加坡留学的中国高中留学生。对计算机和数学感兴趣 <br>
+中国出身、シンガポールで勉強の高校留学生。情報学と数学が好きです <br>
 
 Learning Japanese and German. Likes learning languages too. <br>
 正在学日语和德语。也喜欢学习语言 <br>
