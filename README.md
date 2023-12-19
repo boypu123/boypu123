@@ -10,7 +10,9 @@ Current IB student <br>
 IB学生 <br>
 今、IB学生です <br>
 
-E-MAIL: boypu9673@gmail.com
+E-MAIL: <br>
+boypu9673@gmail.com <br>
+boypu123@outlook.com <br>
 WECHAT: boypu123
 <!---
 boypu123/boypu123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
