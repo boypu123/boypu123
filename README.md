@@ -15,8 +15,6 @@ boypu9673@gmail.com <br>
 boypu123@outlook.com <br>
 WECHAT: boypu123
 
-“社会主义是干出来的，新时代是奋斗出来的。” <br>
-```Open-Source Spirit. People-Oriented Democracy.```
 <!---
 boypu123/boypu123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
