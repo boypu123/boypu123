@@ -2,9 +2,9 @@ A Chinese overseas undergraduate student previously studying in Singapore and no
 曾在新加坡留学，现在英国留学的中国本科留学生。对计算机和数学感兴趣 <br>
 中国出身、元シンガポール留学生です。現在はイギリスの大学で勉強している留学生です。情報学と数学が好きです <br>
 
-Learning Japanese and German. Likes learning languages too. <br>
-正在学日语和德语。也喜欢学习语言 <br>
-日本語とドイツ語を勉強ています。言語の勉強も好きです <br>
+Learning Japanese. Likes learning languages too. <br>
+正在学日语。也喜欢学习语言 <br>
+日本語を勉強ています。言語の勉強も好きです <br>
 
 Current Year 1 Student @UCL. MEng Computer Science and Mathematics<br>
 现UCL大一学生 MEng计算机和数学<br>
