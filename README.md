@@ -23,23 +23,6 @@ My work so far spans lightweight computer vision, AI-powered applications, and r
 - 🛠️ **Building with:** Python, JavaScript/TypeScript, Vue, Node.js, and LLM tooling
 - 🌏 **Languages:** Chinese (native), English, Japanese (learning)
 
-## Selected Projects
-
-### [SarcasmMaster · 阴阳大师](https://github.com/boypu123/sarcasm-rewriter)
-A practical agent application built to explore LangChain, retrieval-augmented generation, and tool calling. It retrieves examples from a vector database and uses an LLM to generate context-aware rewrites, with a Flask API and web interface.
-
-**Tech:** Python · LangChain · RAG · Chroma · Ollama · Flask
-
-### [MVITA — Multi-Cultural Virtual Interview Agent](https://github.com/boypu123/job-interview-preparation)
-A virtual interview and training tool designed to help people prepare for cross-cultural interviews. It combines a Vue-based frontend and Anam SDK with a Python Flask backend.
-
-**Tech:** Vue.js · JavaScript · Python · Flask · LLM APIs
-
-### [ASL Spelling Game](https://github.com/boypu123/ASLSpellingGame) · [Recognition API](https://github.com/boypu123/ASLAlphabetDetection)
-An interactive learning game for practising the American Sign Language alphabet, backed by a lightweight gesture-classification model. The project combines model training, deployment, an API, and a web interface.
-
-**Tech:** MobileNetV2 · Edge Impulse · Node.js · Vue.js
-
 ## Research
 
 **Published work**
