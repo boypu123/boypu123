@@ -29,11 +29,11 @@ My work so far spans lightweight computer vision, AI-powered applications, and r
 
 Pu, H. & Yi, K. (2024). *A Comparative Analysis of EfficientNet and MobileNet Models’ Performance on Limited Datasets: An Example of American Sign Language Alphabet Detection.* **Highlights in Science, Engineering and Technology**, 94, 558–564. [DOI: 10.54097/yh5d3s04](https://doi.org/10.54097/yh5d3s04)
 
-**Current research experience**
+**Ongoing work**
 
-Contributing as an independent second reviewer to a systematic review in Biomedical NLP.
+- **Biomedical NLP Systematic Review** — Contributing as an independent second reviewer to a systematic review in Biomedical NLP.
 
-I'm also interested in how institutional design, coordination, and oversight might affect the robustness of multi-agent systems. This is currently an exploratory research interest rather than a completed project.
+- **Institutional Design for Multi-Agent Systems** *(early-stage independent research)* — Exploring the question: *Can institutional architectures improve the robustness of multi-agent systems?* The idea focuses on how communication protocols, coordination rules, oversight, and mechanisms for handling unreliable agents may affect system-level reliability and safety. Currently at the research-question and experimental-design stage.
 
 ## Beyond Code
 
