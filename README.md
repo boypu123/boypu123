@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hongwen (Jayden) Pu
+# Hongwen (Jayden) Pu 🇨🇳
 
 **UCL MEng Computer Science & Mathematics · AI Systems · Machine Learning**
 
-[Personal Website](https://hongwen-pu.cn) · [GitHub](https://github.com/boypu123) · [Email](mailto:boypu123@outlook.com)
+[Personal Website](https://hongwen-pu.cn) · [GitHub](https://github.com/boypu123) · [Email](mailto:hongwen.pu@outlook.com)
 
 *Building things, asking why they work, and exploring what makes intelligent systems reliable.*
 
