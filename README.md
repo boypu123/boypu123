@@ -33,7 +33,7 @@ Pu, H. & Yi, K. (2024). *A Comparative Analysis of EfficientNet and MobileNet Mo
 
 - **Biomedical NLP Systematic Review** — Contributing as an independent second reviewer to a systematic review in Biomedical NLP.
 
-- **Institutional Design for Multi-Agent Systems** *(early-stage independent research)* — Exploring the question: *Can institutional architectures improve the robustness of multi-agent systems?* The idea focuses on how communication protocols, coordination rules, oversight, and mechanisms for handling unreliable agents may affect system-level reliability and safety. Currently at the research-question and experimental-design stage.
+- **Institutional Design for Multi-Agent Systems** *(early-stage independent research)* — Exploring the question: *Can institutional architectures improve the robustness of multi-agent systems?* Currently at the research-question and experimental-design stage.
 
 ## Beyond Code
 
